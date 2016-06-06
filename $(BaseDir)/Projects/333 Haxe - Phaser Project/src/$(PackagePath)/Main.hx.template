@@ -1,0 +1,24 @@
+package $(PackageName);
+
+import phaser.Phaser;
+import phaser.core.Game;
+
+/**
+$(CBI)* @author $(DefaultUser)
+$(CBI)*/
+class Main $(CSLB){
+	
+	static function main() $(CSLB){
+		new Main();
+	}
+	
+	function new() {
+		game = new Game(800, 600, Phaser.CANVAS, 'phaser-$(ProjectName)', {create: create});
+	}
+	
+	var game:Game;
+	
+	function create() {
+		// entry point
+	}
+}
