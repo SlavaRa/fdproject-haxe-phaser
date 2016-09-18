@@ -1,4 +1,4 @@
-Haxe [Phaser](https://github.com/Blank101/haxe-phaser) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)
+Haxe [Phaser](https://github.com/Blank101/haxe-phaser) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org/)
 ========================
 
 ### Installation
@@ -11,4 +11,4 @@ haxelib [phaser](http://lib.haxe.org/p/phaser/)
 
 ### Usage 
 
-Launch FlashDevelop, create New Project, select Haxe - Phaser project, Run and enjoy...
+Launch FlashDevelop/HaxeDevelop, create New Project, select Haxe - Phaser project, Run and enjoy...
