@@ -1,4 +1,4 @@
-Haxe [Phaser](https://github.com/Blank101/haxe-phaser) Application Project Template for [FlashDevelop](http://www.flashdevelop.org)/[HaxeDevelop](http://www.haxedevelop.org/)
+Haxe [Phaser](https://github.com/Blank101/haxe-phaser) Application Project Template for [FlashDevelop](http://flashdevelop.org)/[HaxeDevelop](https://haxedevelop.org/)
 ========================
 
 ### Installation
